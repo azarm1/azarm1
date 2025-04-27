@@ -1,4 +1,4 @@
-## Hi, I'm Maya! 🌟🚀
+# Hi, I'm Maya! 🌟🚀
 
 🎯 Software Engineering student at McMaster University, passionate about learning by building.  
 💻 Focused on growing my skills in full-stack development and exploring how AI can enhance user-driven applications.  
