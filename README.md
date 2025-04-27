@@ -7,12 +7,12 @@
 ---
 
 ## 🌎 Connect With Me
-- 💼 [LinkedIn]([https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/maya-azar-bab457276/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/maya-azar-bab457276/)
 - 📧 Email: azarm@mcmaster.ca
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 I love turning ideas into real applications and constantly learning new technologies along the way.  
 Currently focused on deepening my understanding of full-stack systems and finding creative ways to leverage AI.
 
